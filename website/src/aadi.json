@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "ravi banait wadegaon",
+      "mobile": "12345",
+      "email": "aadeshssatpute51@gmail.com",
+      "id": "0"
+    },
+    {
+      "id": "1",
+      "name": "AADESH SATPUTE",
+      "email": "aadeshsatpute375@gmail.com",
+      "mobile": "7543454"
+    },
+    {
+      "name": "kishan goat",
+      "mobile": "999888",
+      "email": "balkishan375@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "ramesh bhosdiwla",
+      "email": "rameshmc375@gmail.com",
+      "mobile": "420"
+    },
+    {
+      "id": "4",
+      "name": "Santosh dakha",
+      "email": "dakhasantosh375@gmail.com",
+      "mobile": "4567"
+    }
+  ]
+}
